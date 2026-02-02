@@ -16,5 +16,12 @@
   * [Create space for others](operating-at-staff/create-space-for-others.md)
   * [Build a network of peers](operating-at-staff/build-a-network-of-peers.md)
   * [Present to executives](operating-at-staff/present-to-executives.md)
+* [延伸閱讀（2026）](influence-scope-map-20260202.md)
+  * [影響力範圍地圖（2026 更新）](influence-scope-map-20260202.md)
+  * [技術策略與投資組合（2026 更新）](technical-strategy-portfolio-20260202.md)
+  * [DevEx 與效能度量（DORA/SPACE）（2026 更新）](devex-metrics-space-dora-20260202.md)
+  * [平台工程與內部開發平台（IDP）（2026 更新）](platform-engineering-idp-20260202.md)
+  * [軟體供應鏈安全：SBOM、SSDF、SLSA（2026 更新）](software-supply-chain-security-20260202.md)
+  * [生成式 AI / LLM 風險與護欄（2026 更新）](llm-risk-guardrails-20260202.md)
+  * [向高層溝通的敘事框架（2026 更新）](executive-communication-narratives-20260202.md)
 * [在你现在的岗位上获得头衔](zai-ni-xian-zai-de-gang-wei-shang-huo-de-tou-xian.md)
-

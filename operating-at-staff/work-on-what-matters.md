@@ -106,3 +106,7 @@ Whatever it is, things that simply won’t happen if you don’t do them are you
 
 你无法逃避这些非常主观的面试标准，但你可以有意识地从有价值的工作中积累经验。的确，这是你职业生涯中唯一可行的长期投资: 专注于重要的工作，做能让你成长的项目，并逐渐加入那些重视真正能力的公司发展。
 
+## 延伸閱讀（2026）
+
+1. [影響力範圍地圖（2026 更新）](../influence-scope-map-20260202.md)
+2. [技術策略與投資組合（2026 更新）](../technical-strategy-portfolio-20260202.md)

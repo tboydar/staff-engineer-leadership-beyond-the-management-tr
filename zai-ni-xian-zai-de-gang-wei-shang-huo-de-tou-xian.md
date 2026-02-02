@@ -27,3 +27,7 @@ Apply these techniques consistently, and you’ll be on the way towards a Staff 
 
 ## Opportunity is unevenly distributed
 
+## 延伸閱讀（2026）
+
+1. [影響力範圍地圖（2026 更新）](./influence-scope-map-20260202.md)
+2. [技術策略與投資組合（2026 更新）](./technical-strategy-portfolio-20260202.md)

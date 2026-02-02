@@ -27,3 +27,12 @@
 
 这一巨大的职责范围是描述这些角色具有挑战性的部分原因。如果有你所关注的特定主题被遗漏了，请查看学习附录的附加资源。
 
+## 延伸閱讀（2026）
+
+1. [影響力範圍地圖（2026 更新）](../influence-scope-map-20260202.md)
+2. [技術策略與投資組合（2026 更新）](../technical-strategy-portfolio-20260202.md)
+3. [DevEx 與效能度量（DORA/SPACE）（2026 更新）](../devex-metrics-space-dora-20260202.md)
+4. [平台工程與內部開發平台（IDP）（2026 更新）](../platform-engineering-idp-20260202.md)
+5. [軟體供應鏈安全：SBOM、SSDF、SLSA（2026 更新）](../software-supply-chain-security-20260202.md)
+6. [生成式 AI / LLM 風險與護欄（2026 更新）](../llm-risk-guardrails-20260202.md)
+7. [向高層溝通的敘事框架（2026 更新）](../executive-communication-narratives-20260202.md)
